@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jack Malzone</h1>
 <h3 align="center">Full Stack Software Engineering Student</h3>
 
-- 🔭 I’m currently working on [Beringia Marine](https://jackmalzone.github.io/se_project_beringia/)
+- 🔭 I’m currently working on [Beringia Marine](https://beringia-marine.com)
 
 - 🌱 I’m currently learning **HTML, CSS, JavaScript**
 
