@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Beringia Marine](https://beringia-marine.com)
 
-- 🌱 I’m currently learning **HTML, CSS, JavaScript**
+- 🌱 I’m currently learning **JavaScript, Typscript, React**
 
 - 📫 How to reach me **jackmalzone@gmail.com**
 
