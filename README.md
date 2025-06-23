@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jack Malzone</h1>
-<h3 align="center">Full Stack Software Engineering Student</h3>
+<h3 align="center">Full Stack Web Developer</h3>
 
 - 🔭 I’m currently working on [Beringia Marine](https://beringia-marine.com)
 
