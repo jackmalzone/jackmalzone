@@ -40,7 +40,7 @@
 
 ### 🧭 Philosophy  
 I build interfaces that feel grounded and intentional.  
-My work blends engineering with design discipline — symmetry, clarity, minimal noise.  
+My work blends engineering with design discipline | symmetry, clarity, minimal noise.  
 Every project aims to provide a sense of calm orientation, like stepping into a well-made physical space.
 
 ---
