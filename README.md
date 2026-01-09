@@ -62,9 +62,19 @@ Every project aims to provide a sense of calm orientation, like stepping into a 
 
 ### 📊 GitHub Stats
 
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jackmalzone&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jackmalzone&show_icons=true&locale=en&theme=default" alt="GitHub Stats" />
 </p>
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=jackmalzone&show_icons=true&locale=en" alt="GitHub Stats" />
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jackmalzone&layout=pie&show_icons=true&locale=en&theme=default" alt="Language Distribution Pie Chart" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jackmalzone&theme=default&utcOffset=8" alt="Productive Time" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jackmalzone&theme=default" alt="Repos Per Language" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jackmalzone&theme=default" alt="GitHub Profile Summary with Grade" />
 </p>
