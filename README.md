@@ -8,9 +8,10 @@
 
 ---
 
-### ⚙ Current Work  
-- **Beringia Marine** – a modernized marine technology consulting platform built in Next.js, featuring custom motion design and fluid navigation  
-- **Vital Ice** – an immersive wellness experience for a San Francisco recovery studio using scroll storytelling, GSAP, Lenis, and Three.js
+### ⚙ Current Work
+- **[Vital Ice](https://github.com/jackmalzone/vital-ice)** — A modern, immersive wellness website with ambient visuals, smooth scroll interactions, and sleek dark-theme aesthetics. Built with Next.js, TypeScript, and Framer Motion.
+- **[C++ Primer Repository](https://github.com/jackmalzone/cpp-primer)** — A milestone-based learning project, progressing from fundamentals to developing a real-world edge QA engine. Guided by **C++ Primer**.
+- **[Beringia Marine](https://github.com/jackmalzone/se_project_beringia)** — A client-focused, engaging web application showcasing innovations in marine technology.
 
 ---
 
@@ -34,6 +35,10 @@
   <a href="https://nextjs.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="40" /></a>
   <a href="https://git-scm.com/"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" /></a>
   <a href="https://figma.com/"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40" /></a>
+  <a href="https://cmake.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/1/13/CMake_logo.svg" width="40" /></a>
+  <a href="https://isocpp.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" /></a>
+  <a href="https://www.gnu.org/software/bash/"><img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" width="40" /></a>
+  <a href="https://www.framer.com/motion/"><img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" width="40" /></a>
 </p>
 
 ---
