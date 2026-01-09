@@ -71,7 +71,7 @@ Every project aims to provide a sense of calm orientation, like stepping into a 
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jackmalzone&theme=default&utcOffset=8" alt="Productive Time" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jackmalzone&theme=default&utcOffset=-8" alt="Productive Time" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jackmalzone&theme=default" alt="Repos Per Language" />
 </p>
 
